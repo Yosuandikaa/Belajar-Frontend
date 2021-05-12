@@ -4,4 +4,4 @@ Jalur Frontend
 - SCSS
 - Javascript
 - React Js
-- Redux 
+- Next.js
