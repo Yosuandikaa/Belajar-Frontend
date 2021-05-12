@@ -1,0 +1,5 @@
+Jalur Frontend 
+- HTML 
+- CSS
+- SCSS
+- Javascript
