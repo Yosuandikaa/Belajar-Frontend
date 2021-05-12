@@ -3,3 +3,4 @@ Jalur Frontend
 - CSS
 - SCSS
 - Javascript
+- React Js
